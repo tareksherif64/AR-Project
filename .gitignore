@@ -1,6 +1,7 @@
 [Ll]ibrary/
 [Tt]emp/
 .utmp/
+*BackUpThisFolder_ButDontShipItWithYourGame/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
