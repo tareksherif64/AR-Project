@@ -1,0 +1,12 @@
+# ninja log v5
+83	700	7996144868205884	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	122910edbfe5feb7
+702	1039	7996144871393009	C:/Users/Tarek/Desktop/Semester 10/VR Course/EchoesOfTheLostRelics/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6jx49433/obj/arm64-v8a/libswappywrapper.so	d8922495fc30ce67
+35	2285	7996144884132040	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	12c50b9f708534aa
+44	2296	7996144884212811	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	85f388c7d1685f85
+0	2319	7996144884484186	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1271faab39ab491e
+70	2330	7996144884553295	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	94b7eb4821d6154
+8	2408	7996144885324887	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6e9a6f22dd2e12f6
+56	2649	7996144887743942	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7afd1cfa1a3d4fbd
+24	2675	7996144888051808	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f0740474d9f0bc87
+16	2767	7996144888927931	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	57255fb20cb150ea
+2767	2889	7996144890202999	C:/Users/Tarek/Desktop/Semester 10/VR Course/EchoesOfTheLostRelics/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6jx49433/obj/arm64-v8a/libgame.so	7793e7485b0b0a68
